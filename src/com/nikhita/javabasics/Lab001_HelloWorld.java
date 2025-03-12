@@ -1,4 +1,4 @@
-package com.nikhita.corejava;
+package com.nikhita.javabasics;
 
 public class Lab001_HelloWorld {
     public static void main(String[] args) {
