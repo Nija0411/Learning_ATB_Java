@@ -57,7 +57,21 @@ public class Lab004_Operators {
         p /=1; // p = p/1 = 5
         p %=1; // p = p%1 = 0
 
-        //10. Ternary Operators
+        //10. Ternary Operators --> if else condition in a single statement;
+        int age =10;
+        //Syntax:  result_var = condition? If (condition) : else (condition)
+        String canIVote = age>=18 ? "Yes you can Vote": "No You can't";
+        System.out.println(canIVote);
+
+        int num2 =0;
+        int result = num2>0? 1 : 2;
+        System.out.println(result);
+
+        //Nested Ternary
+        int number = 5;
+        String resul = number>10 ?  (number>20 ? "N>20" : "N<20") : (number<10 ? "B" : "A");
+        System.out.println(resul);
+
         //11. Bitwise Operators
     }
 }
