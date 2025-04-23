@@ -1,4 +1,4 @@
-package ex.lab022_collection_framework.list;
+package ex.lab022_collection_framework.c01_list;
 
 import java.util.ArrayList;
 

@@ -1,4 +1,4 @@
-package ex.lab022_collection_framework.list;
+package ex.lab022_collection_framework.c01_list;
 
 class ArrayProblem {
     public static void main(String[] args) {
