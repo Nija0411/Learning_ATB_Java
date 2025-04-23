@@ -1,6 +1,6 @@
 package ex.lab018_enum2;
 
-public enum Locators {
+enum Locators {
 
     page_button("#button"),
     page_input("#input");

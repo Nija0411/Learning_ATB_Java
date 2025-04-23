@@ -1,6 +1,6 @@
 package ex.lab018_enum2;
 
-public enum APIURLs {
+enum APIURLs {
 
     google("https://google.com"),
     katalon("https://katalon.com"),
